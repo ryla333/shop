@@ -1,3 +1,3 @@
-<?
-echo "RYLASHOP ONLINE";
+<?php
+echo RylaShop;
 ?>
